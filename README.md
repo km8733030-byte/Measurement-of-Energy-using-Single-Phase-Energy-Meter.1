@@ -1,5 +1,5 @@
-### Name: Kalaiselvan J
-### Reg no: 212223080022
+### Name: mahendar choudhary 
+### Reg no: 21222408033
 # Aim:
 To measure energy using Single Phase Energy Meter
 
